@@ -2,6 +2,7 @@
 // - Spinner animation and countdown for breathing and reflection activities
 // - Random prompts for reflection and listing
 // - Modular structure using inheritance for easy addition of new activities
+// 
 
 using System;
 
